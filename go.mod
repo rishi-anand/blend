@@ -1,4 +1,4 @@
-module blend
+module github.com/rishi-anand/blend
 
 go 1.13
 
