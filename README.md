@@ -1,6 +1,6 @@
 # blend
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/rishi-anand/blend.svg)](https://pkg.go.dev/github.com/rishi-anand/blend)
+[![Go Reference](https://pkg.go.dev/badge/github.com/rishi-anand/blend.svg)](https://pkg.go.dev/github.com/rishi-anand/blend) [![Go Report Card](https://goreportcard.com/badge/github.com/rishi-anand/blend)](https://goreportcard.com/report/github.com/rishi-anand/blend)
 
 blend is a library to merge complex YAMLs and it preserves the order of YAML output after merging as it was in the input.
 
